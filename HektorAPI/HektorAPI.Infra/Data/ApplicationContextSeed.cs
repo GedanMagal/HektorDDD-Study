@@ -23,9 +23,15 @@ namespace HektorAPI.Infra.Data
                 }
 
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                throw new Exception("Erro ao conectar no banco de dados", e);
+
+                if (retryForAvailability < 3)
+                {
+                    retryForAvailability++;
+                    var log = loggerFactory.CreateLogger<ApplicationContextSeed>();
+                    log.LogError($"Exception ocurred while connecting: {ex.Message}");
+                }
             }
 
         }
