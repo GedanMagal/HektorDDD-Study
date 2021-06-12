@@ -230,7 +230,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
         },
         "build": {
-          "build/netcoreapp3.0/_._": {}
+          "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
       "Microsoft.EntityFrameworkCore.InMemory/5.0.7": {
@@ -6698,11 +6698,14 @@
     "net5.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.1",
       "HektorAPI.Application >= 1.0.0",
+      "HektorAPI.Core >= 1.0.0",
       "HektorAPI.Infra >= 1.0.0",
       "MediatR >= 9.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0",
       "Microsoft.AspNetCore.Mvc.Versioning >= 5.0.0",
       "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer >= 5.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.7",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.7",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.14",
@@ -6717,11 +6720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
       "projectName": "HektorAPI.Api",
-      "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
+      "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
       "packagesPath": "C:\\Users\\Gedan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\obj\\",
+      "outputPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6741,11 +6744,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj": {
-              "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj"
+            "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj"
             },
-            "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {
-              "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj"
+            "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj": {
+              "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj"
+            },
+            "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {
+              "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj"
             }
           }
         }
@@ -6779,6 +6785,14 @@
           "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
             "target": "Package",
             "version": "[5.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "[5.0.7, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[5.0.7, )"
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",

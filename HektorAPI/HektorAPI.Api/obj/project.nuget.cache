@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQhC7h+RM5OdtSSXe30A9SPEFUjk+7WuVL7IeQEDFKMdRgxvDREl/baNhwa/Ak9zLprDLFUcsIQqZvaYUUPJLg==",
+  "dgSpecHash": "XeZG1e4YK1ZIqE5GMRT2FkprknFtK92PTKoXTA94layz0QD7rm60QgiEZ6JOpDcr2in9dZgrTGjwLoGDMkDRaA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
+  "projectFilePath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Api\\HektorAPI.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gedan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Gedan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84kA4artm0Kyx7lBgpFdGC497XdgrQ4R6edAB8NsRp/MLoUE6qWoPcSU/FcYLG0IvQS6LMQt8fWjKQmnaBa1vw==",
+  "dgSpecHash": "nO9piOgZmq3HAwCcMa5WNS0qBloEyehLGcmRDsub8a7DOTeKNnomTICj2YfWt1YKCAeVN2RACMrBPh6eXaIIJw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gedan\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Gedan\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

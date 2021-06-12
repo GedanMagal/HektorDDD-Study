@@ -13,9 +13,12 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0"/>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14"/>
     <PackageReference Include="MongoDB.Driver" Version="2.12.4"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.7"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.7"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HektorAPI.Application\HektorAPI.Application.csproj"/>
     <ProjectReference Include="..\HektorAPI.Infra\HektorAPI.Infra.csproj"/>
+    <ProjectReference Include="..\HektorAPI.Core\HektorAPI.Core.csproj"/>
   </ItemGroup>
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {}
+    "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj": {
+    "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj",
         "projectName": "HektorAPI.Core",
-        "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj",
+        "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj",
         "packagesPath": "C:\\Users\\Gedan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\obj\\",
+        "outputPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {
+    "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
         "projectName": "HektorAPI.Infra",
-        "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
+        "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
         "packagesPath": "C:\\Users\\Gedan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\obj\\",
+        "outputPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj": {
-                "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj"
+              "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Core\\HektorAPI.Core.csproj"
               }
             }
           }

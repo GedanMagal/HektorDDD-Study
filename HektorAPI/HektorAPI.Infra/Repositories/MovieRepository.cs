@@ -17,9 +17,10 @@ namespace HektorAPI.Infra.Repositories
 
         public async Task<IEnumerable<Movie>> GetMoviesByDirectorName(string directorName)
         {
-            return await _context.Movies
-                .Where(m => m.DirectorName == directorName)
+            var teste = await _context.Movies
+                .Where(m => m.DirectorName.Contains(directorName))
                 .ToListAsync();
+            return teste;
         }
 
     }

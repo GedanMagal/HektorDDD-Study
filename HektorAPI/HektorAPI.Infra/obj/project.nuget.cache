@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2lxxOPJ4GbCePCCL2j2jOXJksl2mnaz00civU8X2qoNVV3lK5D3KtWKGq5ufp3RMJmSrw/MR3XeNS+0BnD2yIA==",
+  "dgSpecHash": "cS4nnF8zHJng7nYcwKJuCynMaB0biVr5W2OaBkf+EwLVh7Ok1by4uIQdKxAqU0IM1sllnpW/g6iCOiPUIX9HhQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
+  "projectFilePath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Infra\\HektorAPI.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gedan\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Gedan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

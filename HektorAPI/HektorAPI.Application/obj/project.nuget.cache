@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwWRYOKu66EYRevre8p1uDaA8dtKLO8JuBhmWrb630nStomrzT2nKmmQ4r8z2AnII5brZ2HjjG+M4C61boiwPA==",
+  "dgSpecHash": "KrNTeK8mGXChebqTeAFkVWhmoA3KCxIgBW1rnAT8/RqycWlscPhX9OHpvzSgcJNpmSKkM9CIOX46ZpXdqarGxw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Application\\HektorAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gedan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Gedan\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

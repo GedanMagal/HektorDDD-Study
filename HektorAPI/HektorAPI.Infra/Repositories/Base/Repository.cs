@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HektorAPI.Infra.Repositories.Base
 {
-    public abstract class Repository<T> : IRepository<T> where T : Entity
+    public class Repository<T> : IRepository<T> where T : Entity
     {
         
         protected readonly ApplicationContext _context;

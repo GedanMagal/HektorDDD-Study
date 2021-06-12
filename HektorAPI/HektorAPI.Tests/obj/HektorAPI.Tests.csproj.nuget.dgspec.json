@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj": {}
+    "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj": {
+    "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
         "projectName": "HektorAPI.Tests",
-        "projectPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\HektorAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Gedan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Gedan\\Documents\\Estudos\\HektorAPI\\HektorAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
